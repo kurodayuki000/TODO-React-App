@@ -7,3 +7,7 @@ node_modules/
 
 # TypeScript
  /.ts-cache/
+
+ # 追加
+.ts-cache/index.js
+.ts-cache/tsconfig.tsbuildinfo
